@@ -11,3 +11,9 @@ This has 2 roles administrator and employee:
    - Update his/ her data.
    - Select tasks. 
    - Update task status.
+
+------
+
+Technologies used are: 
+- C# 5.0 (windows form application)
+- MySql  database
